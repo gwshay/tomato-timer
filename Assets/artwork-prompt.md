@@ -1,0 +1,5 @@
+# Tomato shell
+
+Generated with the built-in image-generation tool. The countdown, tick marks and controls are drawn live by the app.
+
+Create a transparent PNG app sprite of a classic red tomato-shaped mechanical kitchen timer, inspired by the familiar squat tomato timer with a green leaf crown. Softly cute polished 3D realism, rounded lobes, rich glossy red plastic, little deep green leaves and stubby stem on top, gentle studio light upper left. Front view slightly elevated, symmetrical squat rounded tomato, width about 1.25 times its height. A thin dark horizontal curved seam divides the top dome and lower timer body at about 60 percent height. A tiny white downward triangle centered immediately above the seam. The lower front red band is intentionally smooth and blank, enough space for a live countdown overlay added by code. NO numbers, text, ticks, logos, face, hands or feet. Whole object centered and fills 88 percent canvas, no cropping. Genuine transparent alpha background, no floor, no checkerboard or solid backdrop. Soft appealing premium 3D game prop, more dimensional than vector, less detailed than hyperreal photo. Single object.
