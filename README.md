@@ -1,5 +1,7 @@
 # Tomato Timer
 
+Made by ChatGPT.
+
 A tiny floating tomato-shaped Pomodoro timer for macOS, with an animated dial and mechanical alarm.
 
 ![Tomato Timer](preview.png)
